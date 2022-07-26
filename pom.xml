@@ -6,7 +6,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.4.0-M3</version>
-		<relativePath/> <!-- lookup parent from repository -->
+		<relativePath/> <!-- looktestup parent from repository -->
 	</parent>
 	<groupId>com.roberts7531</groupId>
 	<artifactId>tasklist</artifactId>
